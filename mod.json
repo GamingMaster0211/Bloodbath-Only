@@ -1,0 +1,22 @@
+{
+	"geode": "5.5.3",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "gamingmaster392.bloodbath-only",
+	"name": "Bloodbath Only",
+	"version": "v1.0.1",
+	"developer": "GamingMaster392",
+	"description": "Makes it so you can only play Bloodbath.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"tags": [
+		"joke",
+		"online",
+		"interface"
+	]
+}
